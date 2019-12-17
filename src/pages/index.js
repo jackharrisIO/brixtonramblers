@@ -32,7 +32,7 @@ const img_set_1 = [
     desc: 'Different aprons represent rank and region',
   },
   {
-    src: require('../assets/images/gallery/fulls/04.jpg'),
+    src: require('../assets/images/gallery/fulls/freemasons-hall-inside.jpg'),
     thumbnail: require('../assets/images/gallery/thumbs/freemasons-hall-inside.jpg'),
     title: 'Inside Freemasons Hall',
     desc: 'One of the many art deco halls',
@@ -43,27 +43,27 @@ const img_set_2 = [
   {
     src: require('../assets/images/gallery/fulls/pfmall.jpeg'),
     thumbnail: require('../assets/images/gallery/thumbs/pfmall.jpeg'),
-    title: 'Any Curiosity',
-    desc: 'Be one with the curiosity',
+    title: 'Cycling up the Mall',
+    desc: 'Our penny farthing riders',
     full: true,
   },
   {
     src: require('../assets/images/gallery/fulls/victoria-memorial-penny-farthing.jpg'),
     thumbnail: require('../assets/images/gallery/thumbs/victoria-memorial-penny-farthing.jpg'),
-    title: 'Any source of enlightenment',
-    desc: 'Be one with the soul',
+    title: 'Around Buckingham Palace',
+    desc: 'Good morning Your Majesty!',
   },
   {
     src: require('../assets/images/gallery/fulls/high-wheelers-masonic.jpg'),
     thumbnail: require('../assets/images/gallery/thumbs/high-wheelers-masonic.jpg'),
-    title: 'Be in present',
-    desc: 'Be one with the present',
+    title: 'Riding high',
+    desc: 'Its a long way down from here',
   },
   {
     src: require('../assets/images/gallery/fulls/st-jamess-palace-penny-farthing.jpg'),
     thumbnail: require('../assets/images/gallery/thumbs/st-jamess-palace-penny-farthing.jpg'),
-    title: 'Inside Freemasons Hall',
-    desc: 'One of the many art deco halls',
+    title: "Passing St James's' Palace",
+    desc: 'Next stop, the pub!',
     full: true,
   },
 ];
@@ -123,8 +123,8 @@ For Freemasons, there are four important values that help define their path thro
         </header>
         <div className="content">
           <p>
-            <strong>Today, Brixton Ramblers Lodge </strong> meets several times a year at Mark Masons Hall, in the comfortable surroundings of St James's, next door to St James's Palace.
-          We regularly engage in charitable events and some of our memebters retain a fondness for cycling penny farthings.  We are currently raising money to fund new 'super ladders' for the London Fire Brigade.
+            <strong>Brixton Ramblers Lodge </strong> currently meets several times a year at Mark Masons Hall, in the comfortable surroundings of St James's, right next door to St James's Palace.
+            We have an active social calendar and regularly engage in charitable events. We are currently raising money to fund new 'super ladders' for the London Fire Brigade.
           </p>
 
           <section>
@@ -143,7 +143,7 @@ For Freemasons, there are four important values that help define their path thro
             <header>
               <h3>Charity events</h3>
               <p>
-                Each year we raise money for several charities through a mix of events and challenges including walks, cycles and even penny farthing rides.
+                Each year we raise money for several charities through a mix of events and challenges. Some of our memebters still retain a fondness for cycling penny farthings.
               </p>
             </header>
             <div className="content">
