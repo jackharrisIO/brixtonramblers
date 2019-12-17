@@ -9,7 +9,7 @@ export default function ContactForm() {
         <p>
           <strong>If you would</strong> like to chat with us with a view to joining Freemasonry, or the Brixton Ramblers Lodge in particular, drop us a message. We're a friendly bunch and always happy to help.
         </p>
-        <form name="contact" method="POST" data-netlify-recaptcha="true" data-netlify="true" action="/success" data-netlify-honeypot="bot-field" hidden>
+        <form name="contact" method="POST" data-netlify-recaptcha="true" data-netlify="true" action="/success" data-netlify-honeypot="bot-field">
           <input type="hidden" name="bot-field" />
           <div className="fields">
             <div className="field half">
