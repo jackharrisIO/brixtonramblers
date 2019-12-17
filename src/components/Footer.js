@@ -5,7 +5,7 @@ export default function Footer() {
     <div className="copyright nounderline">
       &copy; Brixton Ramblers Lodge #3347. All rights reserved.
       <br />
-      <small>Site: <a href="https://jackharris.io">jackharris.io</a></small>
+      <small>Site: <a href="https://www.linkedin.com/in/jackoliverharris/">jackharris.io</a></small>
     </div>
   );
 }
