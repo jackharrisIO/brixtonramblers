@@ -1,8 +1,11 @@
 import React from "react"
+import Layout from "../components/layout"
 
-export default () => (
-  <div>
-    <h2>Thanks for your message!</h2>
-    <h4>The secretary will be in touch shortly.</h4>
-  </div>
+const ThankYouPage = () => (
+  <Layout>
+    <h1>Thanks for your message!</h1>
+    <p>The secretary will be in touch shortly.</p>
+  </Layout>
 )
+
+export default ThankYouPage
