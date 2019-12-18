@@ -9,7 +9,7 @@ import heroImage from '../assets/images/Brixton-Ramblers-Penny-Farthings-Mark-Ma
 import pic2 from '../assets/images/W.Brown-Brixton Ramblers.jpg';
 import Gallery from '../components/Gallery';
 import ContactForm from '../components/ContactForm';
-import { Link } from 'gatsby';
+// import { Link } from 'gatsby';
 
 const img_set_1 = [
   {
