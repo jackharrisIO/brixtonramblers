@@ -1,4 +1,5 @@
 import React from 'react';
+import ReCAPTCHA from "react-google-recaptcha";
 export default function ContactForm() {
   return (
     <>
@@ -29,6 +30,8 @@ export default function ContactForm() {
             </div>
           </div>
           <div data-netlify-recaptcha="true"></div>
+          <ReCAPTCHA sitekey="6LcpS8gUAAAAAAKgJd6zyL5K7Vri1D1rfFVGwRv2" />
+          <br />
           <ul className="actions">
             <li>
               <input
