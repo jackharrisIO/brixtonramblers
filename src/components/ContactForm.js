@@ -13,10 +13,10 @@ export default function ContactForm() {
           <input type="hidden" name="bot-field" />
           <div className="fields">
             <div className="field half">
-              <input type="text" name="name" id="name" placeholder="Name" />
+              <input type="text" name="name" id="name" placeholder="Name" required />
             </div>
             <div className="field half">
-              <input type="email" name="email" id="email" placeholder="Email" />
+              <input type="email" name="email" id="email" placeholder="Email" required />
             </div>
             <div className="field">
               <textarea
